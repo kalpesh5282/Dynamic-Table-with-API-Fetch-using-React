@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+
+**Features**
+Fetches data dynamically using the fetch API and displays it in a table.
+Uses React's useState and useEffect hooks for state management and side effects.
+Clean and simple UI with a focus on displaying key information (ID, Title, Body).
+Fully responsive and easy to extend for additional features or APIs.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
